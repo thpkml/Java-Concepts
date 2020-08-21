@@ -5,6 +5,11 @@ The files are not a structured lesson on Java.
 They are added as a part of my own learning journey during in 2017 BTEC HND course.  
 I did not want to clutter the repo with everything I learned.   
 Hence, only the things that I found interesting during my study are added here.
+The repo contains the following: 
+- use of named and annonymous arrays
+- calculation of geometric shapes using Math class
+- examples of mathematical operations for sale, tax etc. 
+- use of system input 
 ## Why
 This repo has a dual purpose: 
 - everytime I need to relearn some forgotten java basics, I visit the repo.  
